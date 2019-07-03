@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jhuang/CLionProjects/open-do/List.h
+vector
+-
+string
+-
+Task.h
+/home/jhuang/CLionProjects/open-do/Task.h
+
+/home/jhuang/CLionProjects/open-do/Task.h
+string
+-
+vector
+-
+
+/home/jhuang/CLionProjects/open-do/main.cpp
+iostream
+-
+List.h
+/home/jhuang/CLionProjects/open-do/List.h
+

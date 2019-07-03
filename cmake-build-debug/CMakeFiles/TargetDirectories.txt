@@ -1,0 +1,3 @@
+/home/jhuang/CLionProjects/open-do/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jhuang/CLionProjects/open-do/cmake-build-debug/CMakeFiles/open_do.dir
+/home/jhuang/CLionProjects/open-do/cmake-build-debug/CMakeFiles/edit_cache.dir

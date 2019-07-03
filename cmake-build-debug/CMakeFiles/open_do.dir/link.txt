@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/open_do.dir/main.cpp.o CMakeFiles/open_do.dir/List.cpp.o CMakeFiles/open_do.dir/Task.cpp.o  -o open_do 
