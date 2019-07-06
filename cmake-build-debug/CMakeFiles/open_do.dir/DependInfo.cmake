@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/jhuang/CLionProjects/open-do/List.cpp" "/home/jhuang/CLionProjects/open-do/cmake-build-debug/CMakeFiles/open_do.dir/List.cpp.o"
-  "/home/jhuang/CLionProjects/open-do/Task.cpp" "/home/jhuang/CLionProjects/open-do/cmake-build-debug/CMakeFiles/open_do.dir/Task.cpp.o"
-  "/home/jhuang/CLionProjects/open-do/main.cpp" "/home/jhuang/CLionProjects/open-do/cmake-build-debug/CMakeFiles/open_do.dir/main.cpp.o"
+  "/home/jason/CLionProjects/open-do/List.cpp" "/home/jason/CLionProjects/open-do/cmake-build-debug/CMakeFiles/open_do.dir/List.cpp.o"
+  "/home/jason/CLionProjects/open-do/Task.cpp" "/home/jason/CLionProjects/open-do/cmake-build-debug/CMakeFiles/open_do.dir/Task.cpp.o"
+  "/home/jason/CLionProjects/open-do/main.cpp" "/home/jason/CLionProjects/open-do/cmake-build-debug/CMakeFiles/open_do.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

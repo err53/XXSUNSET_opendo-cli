@@ -34,19 +34,19 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/jhuang/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/191.7479.33/bin/cmake/linux/bin/cmake
+CMAKE_COMMAND = /home/jason/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/191.7479.33/bin/cmake/linux/bin/cmake
 
 # The command to remove a file.
-RM = /home/jhuang/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/191.7479.33/bin/cmake/linux/bin/cmake -E remove -f
+RM = /home/jason/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/191.7479.33/bin/cmake/linux/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/jhuang/CLionProjects/open-do
+CMAKE_SOURCE_DIR = /home/jason/CLionProjects/open-do
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/jhuang/CLionProjects/open-do/cmake-build-debug
+CMAKE_BINARY_DIR = /home/jason/CLionProjects/open-do/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/open_do.dir/depend.make
@@ -59,42 +59,42 @@ include CMakeFiles/open_do.dir/flags.make
 
 CMakeFiles/open_do.dir/main.cpp.o: CMakeFiles/open_do.dir/flags.make
 CMakeFiles/open_do.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jhuang/CLionProjects/open-do/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/open_do.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/open_do.dir/main.cpp.o -c /home/jhuang/CLionProjects/open-do/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jason/CLionProjects/open-do/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/open_do.dir/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/open_do.dir/main.cpp.o -c /home/jason/CLionProjects/open-do/main.cpp
 
 CMakeFiles/open_do.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/open_do.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jhuang/CLionProjects/open-do/main.cpp > CMakeFiles/open_do.dir/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jason/CLionProjects/open-do/main.cpp > CMakeFiles/open_do.dir/main.cpp.i
 
 CMakeFiles/open_do.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/open_do.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jhuang/CLionProjects/open-do/main.cpp -o CMakeFiles/open_do.dir/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jason/CLionProjects/open-do/main.cpp -o CMakeFiles/open_do.dir/main.cpp.s
 
 CMakeFiles/open_do.dir/List.cpp.o: CMakeFiles/open_do.dir/flags.make
 CMakeFiles/open_do.dir/List.cpp.o: ../List.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jhuang/CLionProjects/open-do/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/open_do.dir/List.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/open_do.dir/List.cpp.o -c /home/jhuang/CLionProjects/open-do/List.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jason/CLionProjects/open-do/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/open_do.dir/List.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/open_do.dir/List.cpp.o -c /home/jason/CLionProjects/open-do/List.cpp
 
 CMakeFiles/open_do.dir/List.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/open_do.dir/List.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jhuang/CLionProjects/open-do/List.cpp > CMakeFiles/open_do.dir/List.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jason/CLionProjects/open-do/List.cpp > CMakeFiles/open_do.dir/List.cpp.i
 
 CMakeFiles/open_do.dir/List.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/open_do.dir/List.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jhuang/CLionProjects/open-do/List.cpp -o CMakeFiles/open_do.dir/List.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jason/CLionProjects/open-do/List.cpp -o CMakeFiles/open_do.dir/List.cpp.s
 
 CMakeFiles/open_do.dir/Task.cpp.o: CMakeFiles/open_do.dir/flags.make
 CMakeFiles/open_do.dir/Task.cpp.o: ../Task.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jhuang/CLionProjects/open-do/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/open_do.dir/Task.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/open_do.dir/Task.cpp.o -c /home/jhuang/CLionProjects/open-do/Task.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/jason/CLionProjects/open-do/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/open_do.dir/Task.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/open_do.dir/Task.cpp.o -c /home/jason/CLionProjects/open-do/Task.cpp
 
 CMakeFiles/open_do.dir/Task.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/open_do.dir/Task.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jhuang/CLionProjects/open-do/Task.cpp > CMakeFiles/open_do.dir/Task.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/jason/CLionProjects/open-do/Task.cpp > CMakeFiles/open_do.dir/Task.cpp.i
 
 CMakeFiles/open_do.dir/Task.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/open_do.dir/Task.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jhuang/CLionProjects/open-do/Task.cpp -o CMakeFiles/open_do.dir/Task.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/jason/CLionProjects/open-do/Task.cpp -o CMakeFiles/open_do.dir/Task.cpp.s
 
 # Object files for target open_do
 open_do_OBJECTS = \
@@ -110,7 +110,7 @@ open_do: CMakeFiles/open_do.dir/List.cpp.o
 open_do: CMakeFiles/open_do.dir/Task.cpp.o
 open_do: CMakeFiles/open_do.dir/build.make
 open_do: CMakeFiles/open_do.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jhuang/CLionProjects/open-do/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable open_do"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/jason/CLionProjects/open-do/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable open_do"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/open_do.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -123,6 +123,6 @@ CMakeFiles/open_do.dir/clean:
 .PHONY : CMakeFiles/open_do.dir/clean
 
 CMakeFiles/open_do.dir/depend:
-	cd /home/jhuang/CLionProjects/open-do/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jhuang/CLionProjects/open-do /home/jhuang/CLionProjects/open-do /home/jhuang/CLionProjects/open-do/cmake-build-debug /home/jhuang/CLionProjects/open-do/cmake-build-debug /home/jhuang/CLionProjects/open-do/cmake-build-debug/CMakeFiles/open_do.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/jason/CLionProjects/open-do/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/jason/CLionProjects/open-do /home/jason/CLionProjects/open-do /home/jason/CLionProjects/open-do/cmake-build-debug /home/jason/CLionProjects/open-do/cmake-build-debug /home/jason/CLionProjects/open-do/cmake-build-debug/CMakeFiles/open_do.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/open_do.dir/depend
 

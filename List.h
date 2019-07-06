@@ -17,6 +17,7 @@
 class List {
 public:
     // interface
+    List(const std::string& name);
     List(std::string name, std::vector<Task> tasks);
 
 protected:
